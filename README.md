@@ -4,12 +4,11 @@ Controle seu dinheiro sem complicação. Registre receitas e despesas, visualize
 Manter as contas em dia não precisa ser chato. A ideia aqui é ter um app simples, rápido de usar e fácil de evoluir, sem depender de planilhas complexas.
 
 # Recursos
-- ✅ Cadastro, edição e exclusão de lançamentos (receitas e despesas)
-- 🗂️ Categorias e descrição livre para cada lançamento
-- 🔎 Filtros por período, tipo e categoria
-- 📊 Resumo com totais e saldo do período
-- 💾 Banco H2 em desenvolvimento (simples e sem instalação)
-- 🌱 Pronto para configurar banco externo em produção
+- Cadastro, edição e exclusão de lançamentos (receitas e despesas)
+- Categorias e descrição livre para cada lançamento
+- Filtros por período, tipo e categoria
+- Resumo com totais e saldo do período
+- Banco H2 em desenvolvimento (simples e sem instalação)
 
 # Tecnologias
 - Java 21
